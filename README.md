@@ -2,6 +2,9 @@
 
 I am a passionate AI Researcher and Engineer, specializing in AI application development and distributed computing. Driven by innovation and the potential of AI to solve real-world problems.
 
+<!--
+![steerapi's Stats](https://github-readme-stats.vercel.app/api?username=steerapi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+-->
 ![steerapi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=steerapi&theme=vue-dark&show_icons=true&hide_border=true)
 
 ## 🚀 About Me
